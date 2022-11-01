@@ -40,3 +40,5 @@ Finally, the data can also be filtered by the shape of the UFOs.
   
   
 ## Summary
+One drawback of the webpage is the search engine is case sensitive, so any data requiring letters must use lower case or else it will not work.  
+An improvement that could be made for the webpage is to properly capitalize the letters of in a majority of the columns. It would offer for better visual presentation and show use of proper grammar. Another improvement that could be made would be to establish an API for an external website to utilize a dynamic dataset and give more up-to-date information on UFO sightings.
